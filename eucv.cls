@@ -59,7 +59,7 @@
 		 \huge \usefont{OT1}{phv}{b}{n} \hfill \textcolor{headings}{#1}
 		 \par \normalsize \normalfont}
 
-\newcommand{\MyEmail}[1]{ % email
+\newcommand{\MyEmail}[1]{% email
 	\href{mailto:#1}{#1}
 }
 
